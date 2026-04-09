@@ -1,0 +1,43 @@
+# ═══════════════════════════════════════════════════════════════
+# .gitignore - TaskFlow Projeto
+# ═══════════════════════════════════════════════════════════════
+
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporários
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Node (caso alguém use algum preprocessador)
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Build / Dist (caso alguém compile algo)
+dist/
+build/
+
+# Pessoal (não commitar notas pessoais)
+notas.txt
+rascunho.md
+TODO.md
