@@ -29,8 +29,8 @@ Um aplicativo web profissional de To-Do List com:
 
 | Item | Detalhes |
 |------|----------|
-| **Data de Início** | 07/04/2025 |
-| **Prazo de Entrega** | 14/04/2025 às 23h59 |
+| **Data de Início** | 10/04/2025 |
+| **Prazo de Entrega** | 13/04/2025 às 23h59 |
 | **Nota Mínima** | 70 pontos (de 100) |
 | **Tipo** | Individual |
 | **Valor** | 100 pontos + até 25 extras |
